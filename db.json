@@ -1,0 +1,90 @@
+{
+  "globalList": [
+    {
+      "id": "b130763a-06d4-4905-b97f-a6f85b135001",
+      "name": "alif imran new",
+      "email": "alifnew@gmail.com",
+      "desc": "This is my first page. So, Welcome!",
+      "pic": "/src/assets/profile6.png"
+    },
+    {
+      "id": "c6510424-0733-4184-a9c1-a7e4513313a0",
+      "name": "Alif Onlysss",
+      "email": "onlyalif82@gmail.comss",
+      "desc": "ima me no mae!",
+      "pic": "/src/assets/profile3.png"
+    },
+    {
+      "id": "e73b5a9f-f843-4fa4-8fa8-11524d88ec6a",
+      "name": "That don't beg",
+      "email": "staywithme@hotmail.eg",
+      "desc": "IT WORKS but............. need to use .get function, but stabilised. "
+    },
+    {
+      "id": "85fab2db-0d39-419b-a69d-b9e893c1b8cf",
+      "name": "edited again",
+      "email": "edited@gmail.com",
+      "desc": "okay, now its an updated version of this description. Test again..? so I tried testing it again with the styling and somehow its kinda responsive but i'm not sure"
+    },
+    {
+      "id": "57e48f11-c217-4976-aa5d-d7bc5319cc4b",
+      "name": "Viewing database",
+      "email": "viewdatabase@gmail.com",
+      "desc": "this is the default pic"
+    },
+    {
+      "id": "c8beb2d6-fabc-4051-a625-99dcf0960a8d",
+      "name": "with image",
+      "email": "withimage@gmail.com",
+      "desc": "I successfully managed to add images with styling!!",
+      "pic": "/src/assets/profile2.png"
+    },
+    {
+      "id": "685b82b8-15c8-4508-9615-58cbb83e71c0",
+      "name": "name w/o image ",
+      "email": "namewo.image@email.com",
+      "desc": "I am a legendary snowboarder!",
+      "pic": "/src/assets/profile2.png"
+    },
+    {
+      "id": "95694a1b-29ff-4ff8-af73-9d9a0dab3158",
+      "name": "alif edit context and router v6",
+      "email": "editalif@email.com",
+      "desc": "this is my description and tested using router v6 with context ITS WORKINNNN",
+      "pic": "/src/assets/profile3.png"
+    },
+    {
+      "id": "a7ed1294-4641-414f-99e3-f1789d1ca588",
+      "name": "Unavailable Description",
+      "email": "nodesc@gmail.com",
+      "desc": "",
+      "pic": "/src/assets/profile1.png"
+    }
+  ],
+  "roomsList": [
+    {
+      "roomNum": 1,
+      "roomType": "Normal Room",
+      "amenities": "Air Conditioner, Free Wi-Fi, Normal Shower.",
+      "price": 250,
+      "date": "2023-10-30",
+      "ratings": 1.264056
+    },
+    {
+      "roomNum": 2,
+      "roomType": "Deluxe Room",
+      "amenities": "Air Conditioner, Free Wi-Fi, TV, Deluxe Bed, Normal Shower.",
+      "price": 315,
+      "date": "2023-11-04",
+      "ratings": "3.64963"
+    },
+    {
+      "roomNum": 3,
+      "roomType": "Private Room",
+      "amenities": "Air Conditioner, Free Wi-Fi, TV, King-Sized Bed, Shower & Bathtub, Kitchen.",
+      "price": 400,
+      "date": "2023-12-16",
+      "ratings": "14.458284"
+    }
+  ]
+}
