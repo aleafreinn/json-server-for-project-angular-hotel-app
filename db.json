@@ -63,6 +63,7 @@
   ],
   "roomsList": [
     {
+      "id": 1,
       "roomNum": 1,
       "roomType": "Normal Room",
       "amenities": "Air Conditioner, Free Wi-Fi, Normal Shower.",
@@ -71,6 +72,7 @@
       "ratings": 1.264056
     },
     {
+      "id": 2,
       "roomNum": 2,
       "roomType": "Deluxe Room",
       "amenities": "Air Conditioner, Free Wi-Fi, TV, Deluxe Bed, Normal Shower.",
@@ -79,6 +81,7 @@
       "ratings": "3.64963"
     },
     {
+      "id": 3,
       "roomNum": 3,
       "roomType": "Private Room",
       "amenities": "Air Conditioner, Free Wi-Fi, TV, King-Sized Bed, Shower & Bathtub, Kitchen.",
