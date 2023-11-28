@@ -68,7 +68,7 @@
       "roomType": "Normal Room",
       "amenities": "Air Conditioner, Free Wi-Fi, Normal Shower.",
       "price": 250,
-      "date": "2023-10-30",
+      "date": "2023-11-28T10:19:00.375Z",
       "ratings": 1.264056
     },
     {
@@ -88,6 +88,71 @@
       "price": 400,
       "date": "2023-12-16",
       "ratings": "14.458284"
+    },
+    {
+      "id": 4,
+      "roomNum": 4,
+      "roomType": "Private Room",
+      "amenities": "Air Conditioner, Free Wi-Fi, TV, King-Sized Bed, Shower & Bathtub, Kitchen.",
+      "price": 400,
+      "date": "2023-12-16T00:00:00.000Z",
+      "ratings": 14.458284
+    },
+    {
+      "id": 5,
+      "roomNum": 5,
+      "roomType": "Private Room",
+      "amenities": "Air Conditioner, Free Wi-Fi, TV, King-Sized Bed, Shower & Bathtub, Kitchen.",
+      "price": 400,
+      "date": "2023-11-28T10:19:49.541Z",
+      "ratings": 14.458284
+    },
+    {
+      "id": 11,
+      "roomNum": 11,
+      "roomType": "sdf",
+      "amenities": "sadf",
+      "price": 12,
+      "date": "2023-11-28T12:58:37.198Z",
+      "ratings": 2
+    },
+    {
+      "id": 7,
+      "roomNum": 7,
+      "roomType": "adslk",
+      "amenities": "sdalkfj",
+      "price": 12,
+      "date": "2023-11-28T13:02:48.614Z",
+      "ratings": 12
+    },
+    {
+      "id": 8,
+      "roomNum": 8,
+      "roomType": "adslk",
+      "amenities": "sdalkfj",
+      "price": 12,
+      "date": "2023-11-28T13:03:41.222Z",
+      "ratings": 12
+    }
+  ],
+  "imageList": [
+    {
+      "id": "uuid1",
+      "imageURL": "myURL1",
+      "label": "thisPlace",
+      "budget": 10
+    },
+    {
+      "id": "uuid2",
+      "imageURL": "myURL2",
+      "label": "thisPlace",
+      "budget": 20
+    },
+    {
+      "id": "uuid3",
+      "imageURL": "myURL3",
+      "label": "thisPlace",
+      "budget": 30
     }
   ]
 }
