@@ -138,21 +138,33 @@
   "imageList": [
     {
       "id": "uuid1",
-      "imageURL": "myURL1",
-      "label": "thisPlace",
-      "budget": 10
+      "imageURL": "https://backyardtravel.com/wp-content/uploads/2019/07/Malaysia-Kuala-Lumpur-Architecture-Petronas-Twin-Tower.jpg",
+      "label": "Kuala Lumpur",
+      "budget": 250
     },
     {
       "id": "uuid2",
-      "imageURL": "myURL2",
-      "label": "thisPlace",
-      "budget": 20
+      "imageURL": "https://www.holidify.com/images/cmsuploads/compressed/Kapalai3_20220416221039.jpg",
+      "label": "Sabah",
+      "budget": 150
     },
     {
       "id": "uuid3",
-      "imageURL": "myURL3",
-      "label": "thisPlace",
-      "budget": 30
+      "imageURL": "https://blog.pulaisprings.com/wp-content/uploads/2014/11/LEGOLANDArc2resize.jpg",
+      "label": "LegoLand",
+      "budget": 200
+    },
+    {
+      "id": "24cf4dca-6a2a-48e3-b651-e5f05768ae63",
+      "imageURL": "https://outoftownblog.com/wp-content/uploads/2020/01/Crystal-mosque-in-Kuala-Terengganu-Malaysia-photo-via-Depositphotos.jpg",
+      "label": "Masjid Kristal, Terengganu",
+      "budget": 100
+    },
+    {
+      "id": "3fc57db8-1d76-43db-9aa1-f7f2e88de4a7",
+      "imageURL": "https://blog.redbus.sg/wp-content/uploads/2021/02/shutterstock_762759964-scaled.jpg",
+      "label": "penang",
+      "budget": 135
     }
   ]
 }
